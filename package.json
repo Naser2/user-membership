@@ -1,9 +1,10 @@
 {
    "name": "Extra-membership",
+   "version": "0.0.0",
    "author": "Nasser Sanou",
    "description": "building memebership system",
    "dependencies": {
-     
+
    },
    "devDependencies": {
       "grunt": "^1.0.1",
